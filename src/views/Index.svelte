@@ -265,7 +265,11 @@
                 <div
                   class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
                 >
-                  <i class="fas fa-sitemap"></i>
+                 <img
+                   alt="wireframe"
+                   src="/assets/img/9.png"
+                   class="w-full align-middle rounded-t-lg"
+                  />
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
                   Transcribe Conversation
@@ -280,7 +284,11 @@
                 <div
                   class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
                 >
-                  <i class="fas fa-drafting-compass"></i>
+                 <img
+                   alt="wireframe"
+                   src="/assets/img/5.png"
+                   class="w-full align-middle rounded-t-lg"
+                  />
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
                   Generate Notes
@@ -297,7 +305,11 @@
                 <div
                   class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
                 >
-                  <i class="fas fa-newspaper"></i>
+                 <img
+                   alt="wireframe"
+                   src="/assets/img/4.png"
+                   class="w-full align-middle rounded-t-lg"
+                  />
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">Analyse Consult</h6>
                 <p class="mb-4 text-blueGray-500">
@@ -310,7 +322,11 @@
                 <div
                   class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
                 >
-                  <i class="fas fa-file-alt"></i>
+                <img
+                alt="wireframe"
+                src="/assets/img/8.png"
+                class="w-full align-middle rounded-t-lg"
+               />
                 </div>
                 <h6 class="text-xl mb-1 font-semibold">
                   Export to EMR

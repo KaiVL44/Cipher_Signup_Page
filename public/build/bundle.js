@@ -1,5 +1,5 @@
 
-(function(l, r) { if (l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (window.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(window.document);
+(function(l, r) { if (l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (window.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(window.document);
 var app = (function () {
     'use strict';
 
@@ -29992,16 +29992,16 @@ var app = (function () {
             <h4 class="text-xl font-bold text-white">Deliver Superior Care</h4> 
             <p class="text-md font-light mt-2 text-white">Cipher AI allows doctors to deliver a superior level of care to more patients than ever before</p></blockquote></div></div> 
 
-      <div class="w-full md:w-6/12 px-4"><div class="flex flex-wrap"><div class="w-full md:w-6/12 px-4"><div class="relative flex flex-col mt-4"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><i class="fas fa-sitemap"></i></div> 
+      <div class="w-full md:w-6/12 px-4"><div class="flex flex-wrap"><div class="w-full md:w-6/12 px-4"><div class="relative flex flex-col mt-4"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><img alt="wireframe" src="/assets/img/9.png" class="w-full align-middle rounded-t-lg"/></div> 
                 <h6 class="text-xl mb-1 font-semibold">Transcribe Conversation</h6> 
                 <p class="mb-4 text-blueGray-500">First Cipher AI will fully and accurately transcribe your entire doctor patient conversation</p></div></div> 
-            <div class="relative flex flex-col min-w-0"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><i class="fas fa-drafting-compass"></i></div> 
+            <div class="relative flex flex-col min-w-0"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><img alt="wireframe" src="/assets/img/5.png" class="w-full align-middle rounded-t-lg"/></div> 
                 <h6 class="text-xl mb-1 font-semibold">Generate Notes</h6> 
                 <p class="mb-4 text-blueGray-500">After this Cipher will generate comprehensive doctors notes &amp; any other nessecary documents including referrals and reports</p></div></div></div> 
-          <div class="w-full md:w-6/12 px-4"><div class="relative flex flex-col min-w-0 mt-4"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><i class="fas fa-newspaper"></i></div> 
+          <div class="w-full md:w-6/12 px-4"><div class="relative flex flex-col min-w-0 mt-4"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><img alt="wireframe" src="/assets/img/4.png" class="w-full align-middle rounded-t-lg"/></div> 
                 <h6 class="text-xl mb-1 font-semibold">Analyse Consult</h6> 
                 <p class="mb-4 text-blueGray-500">Using our specialist algorithm Cipher will detect all relevant information including medical history, diagnosis, medication and much more</p></div></div> 
-            <div class="relative flex flex-col min-w-0"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><i class="fas fa-file-alt"></i></div> 
+            <div class="relative flex flex-col min-w-0"><div class="px-4 py-5 flex-auto"><div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"><img alt="wireframe" src="/assets/img/8.png" class="w-full align-middle rounded-t-lg"/></div> 
                 <h6 class="text-xl mb-1 font-semibold">Export to EMR</h6> 
                 <p class="mb-4 text-blueGray-500">After all this we will then automatically export notes to your favourite EMR &amp; send any relevant referrals</p></div></div></div></div></div></div></div> 
 
